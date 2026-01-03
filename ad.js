@@ -25,7 +25,7 @@
     adContainer.innerHTML = `
         <div style="width:100%; border:1px solid #ddd; border-radius:8px; overflow:hidden; cursor:pointer;" id="pc-box">
             <a href="https://advertiser.com" target="_blank" id="pc-link" style="text-decoration:none;">
-                <img src="https://via.placeholder.com/728x90/4F46E5/FFFFFF?text=Verified+Ad+Partner" style="width:100%; display:block;">
+                <img src="https://via.placeholder.com/728x90/4F46E5/FFFFFF?text=Verified+Ad+Partner" style="width:100%; height: 100%; display:block;">
             </a>
         </div>
     `;
